@@ -1,8 +1,8 @@
 # Layer-wise Analysis Using "SI"
 
-## Seperation Index 
+## Seperation Index(SI)
 
-Seperation Index (SI) is a seperating measure in classification problems. It shows that hhow much input data points seperate the labels from eachother.
+Seperation Index (SI) is a seperating measure in classification problems. It shows that how much input data points seperate the labels from eachother.<br/>
 Below is the SI Formula: <br/>
 <img/>
 
