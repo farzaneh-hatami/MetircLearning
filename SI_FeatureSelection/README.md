@@ -25,3 +25,6 @@ We compare result with five different methods:
 | -----|-----------|---------|------------------------|------------------|----------------------------|------------------------|----------|
 |   1  |Auto-encoder with VGG16 backbone|CIFAR10|2048|2|0.0853|0.138|increase 0.053|
 |   2  |Auto-encoder with convolutional layers|CIFA10|384|25|0.2918|0.30|increase 0.0082|
+|   3  |Pretrained VGG16| CIFAR10 | 8192|100|0.5921|0.55|decrease 0.0421|
+|   4  |Variational Auto-encoder|CIFAR10|256|65|0.7404|0.755|increase 0.0146|
+|   5  |Variational Auto-encoder|CIFAR100|256|20|0.6832|0.691|increase 0.0078|
