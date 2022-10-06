@@ -15,7 +15,7 @@ We use CIFAR10 for training and inference
 we train the network for 40 epochs and calculate SI for every layer of VGG16.<br/>
 Below is the loss and accuracy plots:</br>
 Loss plot:<br/>
-<img src="imgs/loss.png" data-canonical-src="img/loss.png" width="400" />
+<img src="imgs/loss.png" data-canonical-src="img/loss.png" width="400" /><br/>
 Accuracy plot:<br/>
 <img src="imgs/acc.png" data-canonical-src="img/acc.png" width="400" />
 
