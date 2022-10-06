@@ -19,7 +19,7 @@ Accuracy plot:<br/>
 <img/>
 
 
-Resualts:
+## Resualts:
 As can be seen in plot below, the initial layers have less SI, as we get closer to the final layers
 SI has increased.
 <img/>
