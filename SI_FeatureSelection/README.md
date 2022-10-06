@@ -21,5 +21,7 @@ We compare result with five different methods:
 
 ## Resualts
 
-| radif |  model    | Dataset |  latent space features | selected features| SI on latent space features| SI on selected features|SI changes|
-| ------|-----------|---------|------------------------|------------------|----------------------------|------------------------|----------|
+|  Row |  model    | Dataset |  latent space features | selected features| SI on latent space features| SI on selected features|SI changes|
+| -----|-----------|---------|------------------------|------------------|----------------------------|------------------------|----------|
+|   1  |Auto-encoder with VGG16 backbone|CIFAR10|2048|2|0.0853|0.138|increase 0.053|
+|   2  |Auto-encoder with convolutional layers|CIFA10|384|25|0.2918|0.30|increase 0.0082|
