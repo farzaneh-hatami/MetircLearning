@@ -21,4 +21,5 @@ We compare result with five different methods:
 
 ## Resualts
 
-|    radif  |  model    | Dataset |  latent space features | selected features| SI on latent space features| SI on selected features|SI changes|
+| radif |  model    | Dataset |  latent space features | selected features| SI on latent space features| SI on selected features|SI changes|
+| ------|-----------|---------|------------------------|------------------|----------------------------|------------------------|----------|
